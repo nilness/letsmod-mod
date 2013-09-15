@@ -1,0 +1,23 @@
+[
+{
+	"modid": "LetsMod",
+	"name": "Let's Mod",
+	"description": "Learn modding with pahimar",
+	"version": "0.0.1",
+	"url": "",
+	"updateUrl": "",
+	"authorList": [
+		"nilness",
+		"pahimar"
+	],
+	"credits": "Everybody",
+	"logoFile": "",
+	"screenshots": [
+	],
+	"parent": "",
+	"dependencies": [
+	]
+}
+]
+
+
